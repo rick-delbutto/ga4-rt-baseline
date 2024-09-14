@@ -10,5 +10,8 @@ Google Analytics Data API needs to be enabled. It is not automatically available
 ### Create a GCP Service Account 
 The service account will get the data from the API and will be added to the GA4 property with the necessary permissions. 
 
-#### Set GA4 permissions for the service account
+### Set GA4 permissions for the service account
 The newly created service account will need to be added to GA4. 
+
+### Get the data with Python
+---
