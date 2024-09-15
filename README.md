@@ -1,5 +1,6 @@
 # ga4-rt-baseline
-Analytics Pioneers Hackathon - GA4 real time "baseline" checker of hits
+Analytics Pioneers Hackathon - GA4 real time "baseline" checker of hits. 
+Idea pitched by Markus Baersch.
 
 The main goal of the baseline checker is to have a system in place which is taking the real time data of Google Analytics API and check all events for a deviation after changes. As soon as a new version of the container is published, the Analytics expert would like to see if GA4 data is still being collected as expected. Therefore, we are trying to setup a "baseline" checker, to see if the different hits are working as expected within the thresholds of the deviation (~5%). 
 
